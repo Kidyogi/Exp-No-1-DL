@@ -12,6 +12,6 @@ print(f"{headers[0]:<15} {headers[1]:<17} {headers[2]:<18} {headers[3]}")
 for entry in test_data:
     print(f"{entry['Input Face Image']:<15} {entry['Expected Identity']:<17} {entry['Predicted Identity']:<18} {entry['Correct (Y/N)']}")
 
-    output :
+output :
 
-    <img width="648" height="143" alt="Screenshot 2025-08-20 095043" src="https://github.com/user-attachments/assets/339c19e0-0b3d-466e-91e7-4bd7cbbda1e7" />
+<img width="648" height="143" alt="Screenshot 2025-08-20 095043" src="https://github.com/user-attachments/assets/abe3951d-9d85-4765-a704-de6f8da34ead" />
